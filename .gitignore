@@ -1,0 +1,52 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled output
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE and Editor folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Selenium WebDriver executables
+*.exe
+*.chromedriver
+*.geckodriver
+*.iedriver
+
+# Test reports and coverage
+coverage/
+*.lcov
+
+# Cache files
+.cache/
+*.swp
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build artifacts
+*.tgz
+*.gz
+*.zip
+
+# Ignore .env.local if you use it for local environment variables
+.env.local
+
+# Ignore package-lock.json or yarn.lock if you don't want to track them
+package-lock.json
+yarn.lock
